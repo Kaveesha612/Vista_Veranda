@@ -10,6 +10,7 @@ Built a responsive web-based Hotel Management System using HTML, CSS, and JavaSc
 - User-friendly responsive interface <br>
 - Efficient hotel workflow management <br>
 <br>
+
 ##  🛠 Technologies Used <br>
 <br>
 - HTML <br>
